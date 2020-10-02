@@ -1040,3 +1040,16 @@ h4 {
         text-align: center;
     }
 }
+
+.txt{
+    font-size: 1.6em;
+}
+
+blockquote p{
+  font-size: 1.1em;
+
+}
+
+blockquote footer{
+    color: #595959;
+}
