@@ -1053,3 +1053,9 @@ blockquote p{
 blockquote footer{
     color: #595959;
 }
+
+#test{
+    display: flex;
+    justify-content: space-around;
+}
+
