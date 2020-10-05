@@ -649,7 +649,7 @@ p,
 label{
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 a{
@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -1059,3 +1059,6 @@ blockquote footer{
     justify-content: space-around;
 }
 
+#color-wob{
+    color: #424242;
+}
