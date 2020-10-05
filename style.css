@@ -1061,6 +1061,6 @@ blockquote footer{
     justify-content: space-around;
 }
 
-#color-wob{
-    color: #424242;
+.color-wob{
+    color: #424242!important;
 }
