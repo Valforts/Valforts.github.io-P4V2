@@ -1039,6 +1039,11 @@ h4 {
     p{
         font-size:18px;
     }
+
+    .fa{
+        
+        font-size: 40px!important;   
+    }
 }
 
 @media (max-width: 767px) {
@@ -1048,6 +1053,12 @@ h4 {
 
     p{
         font-size:18px;
+    }
+
+     .fa{
+
+        font-size: 40px!important;
+       
     }
 }
 
