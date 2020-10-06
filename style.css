@@ -335,6 +335,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    text-decoration: underline;
 }
 
 .navbar-toggle {
@@ -455,7 +456,7 @@ nav .caret {
 
 .btn-d,
 .btn-d:hover,
-.btn-d:focus {
+.btn-d           {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
@@ -1086,4 +1087,8 @@ blockquote footer{
 
 .margin-auto{
     margin: auto;
+}
+
+#main_title{
+    font-size: 17px;
 }
