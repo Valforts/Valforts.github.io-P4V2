@@ -1084,3 +1084,6 @@ blockquote footer{
     color: #424242!important;
 }
 
+.margin-auto{
+    margin: auto;
+}
